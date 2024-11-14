@@ -8,5 +8,5 @@
 ░▒▓███████▓▒░░░░▒▓█▓▒░░▒▓█▓▒░░░░░░░░░░▒▓█▓▒░░░░▒▓██████▓▒░░░░░▒▓██████▓░ 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░                                                                                                                                                   
 
-Hi there, I'm Beck. a UK Computer Science Grad who loves a good project.
+Hi there, I'm Beck. I'm a UK Computer Science Grad who loves a good project.
 Check out my repositories and feel free to drop me a message.
